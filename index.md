@@ -6,7 +6,7 @@ layout: default
 
 ---
 
-# Revista Vector
+# Revista PROYECTO VECTOR
 
 ## La revista de divulgación científica y tecnológica Argentina.
 
@@ -34,9 +34,9 @@ Números:
 # Nosotros
 ## La iniciativa y el equipo
 
-Proyecto Vector es una iniciativa didáctica con el fin de dinamizar el intercambio entre la investigación científica y el resto de sociedad. Queremos comunicar el desarrollo científico y tecnológico del país de forma rigurosa y comprensible. Nos interesa presentar a los protagonistas de la ciencia, en especial a los estudiantes de doctorado, investigadores postdoctorales e investigadores jóvenes del país.  
+PROYECTO VECTOR es una iniciativa didáctica con el fin de dinamizar el intercambio entre la investigación científica y el resto de sociedad. Queremos comunicar el desarrollo científico y tecnológico del país de forma rigurosa y comprensible. Nos interesa presentar a los protagonistas de la ciencia, en especial a los tesistas de doctorado, investigadores postdoctorales e investigadores jóvenes del país.  
 
-Somos un equipo comprometido y motivado. Nos esforzamos para ser referentes en comunicación científica Argentina y queremos llegar a la sociedad completa. Para lograrlo, necesitmaos lograr la difusión federal de nuestros contenidos. Podés ayudarnos a cumplir nuestro objetivo compartiendo nuestro trabajo. 
+Somos un equipo comprometido y motivado. Nos esforzamos para ser referentes en comunicación científica argentina y queremos llegar a la sociedad completa. Para lograrlo, necesitmaos lograr la difusión federal de nuestros contenidos. Podés ayudarnos a cumplir nuestro objetivo compartiendo nuestro trabajo. 
 
 Muchas gracias.
 
