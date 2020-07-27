@@ -13,8 +13,8 @@ layout: default
 Volumen 1
 
 Números:
-###### [![V1N11](assets/img/portadas/V1N1.png)](https://drive.google.com/file/d/1rPdOwJV2BwTmLj3W-jcYHi2TNaSbEXGY/view?usp=sharing)
-#### (Para leer y descargar tocá la portada o entrá por [acá](https://drive.google.com/file/d/1rPdOwJV2BwTmLj3W-jcYHi2TNaSbEXGY/view?usp=sharing).)
+###### [![V1N11](assets/img/portadas/V1N1.png)](https://drive.google.com/file/d/15Uj3L_QR1XNoLRowd03oII78XNF-cc6K/view?usp=sharing)
+#### (Para leer y descargar tocá la portada o entrá por [acá](https://drive.google.com/file/d/15Uj3L_QR1XNoLRowd03oII78XNF-cc6K/view?usp=sharing).)
 
 ¡Más contenido proximamente!
 
