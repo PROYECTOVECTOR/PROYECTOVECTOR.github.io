@@ -41,7 +41,7 @@ Somos un equipo comprometido y motivado. Nos esforzamos para ser referentes en c
 Muchas gracias.
 
 
-## Los creadores del Proyecto Vector
+## Los creadores de PROYECTO VECTOR
 
 
 ---
