@@ -45,7 +45,7 @@ Muchas gracias.
 
 
 ---
-### La Revista Vector es de libre acceso y gratuita.
+### La revista PROYECTO VECTOR es de libre acceso y gratuita.
 ##### Lista para disfrutar. Atte.: Equipo Proyecto Vector
 ![VECTOR](thumbnail.png)
 
