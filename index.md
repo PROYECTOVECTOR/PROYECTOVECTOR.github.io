@@ -16,7 +16,7 @@ Números:
 ###### [![V1N11](assets/img/portadas/V1N1.png)](https://drive.google.com/file/d/15Uj3L_QR1XNoLRowd03oII78XNF-cc6K/view?usp=sharing)
 #### (Para leer y descargar tocá la portada o entrá por [acá](https://drive.google.com/file/d/15Uj3L_QR1XNoLRowd03oII78XNF-cc6K/view?usp=sharing).)
 
-¡Más contenido proximamente!
+¡Más contenido próximamente!
 
 
 ##### Volver al inicio: [Contenidos](#contenidos)
@@ -26,7 +26,7 @@ Números:
 
 ## Charlas, debates y entrevistas de ciencia y tecnología.
 
-¡Más contenido proximamente!
+¡Más contenido próximamente!
 
 
 ##### Volver al inicio: [Contenidos](#contenidos)
