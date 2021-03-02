@@ -37,14 +37,14 @@ Números:
 # Nosotros
 ## La iniciativa y el equipo
 
-PROYECTO VECTOR es una iniciativa didáctica con el fin de dinamizar el intercambio entre la investigación científica y el resto de sociedad. Queremos comunicar el desarrollo científico y tecnológico del país de forma rigurosa y comprensible. Nos interesa presentar a los protagonistas de la ciencia, en especial a los tesistas de doctorado, investigadores postdoctorales e investigadores jóvenes del país.  
+PROYECTO VECTOR es una iniciativa educativa pensada y creada para dinamizar el intercambio entre el ámbito de la investigación académica y la sociedad en general. Así, estamos interesados/as en comunicar y poner en valor el desarrollo en diversas áreas del conocimiento, tanto científicas y tec-nológicas como humanísticas, de un modo riguroso pero comprensible. Es nuestra determinación, entonces, pre-sentar a las y los protagonistas de este desarrollo, en especial a tesistas e investigadoras/es jóvenes del país. 
 
-Somos un equipo comprometido y motivado. Nos esforzamos para ser referentes en comunicación científica argentina y queremos llegar a la sociedad completa. Para lograrlo, necesitmaos lograr la difusión federal de nuestros contenidos. Podés ayudarnos a cumplir nuestro objetivo compartiendo nuestro trabajo. 
+ Somos un equipo comprometido y motivado que se esfuerza por con-vertirse en un referente de la comunicación científica argentina y así llegar a gran parte de la sociedad. Para lograrlo buscamos conseguir la difusión federal de nuestros contenidos, de manera que podés ayudarnos compar-tiendo nuestro trabajo para que el conocimiento se convierta en un valor al alcance de muchos.  
 
 Muchas gracias.
 
 
-## Los creadores de PROYECTO VECTOR
+## Atte., Equipo PROYECTO VECTOR
 
 
 ---
