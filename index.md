@@ -44,7 +44,8 @@ PROYECTO VECTOR es una iniciativa educativa pensada y creada para dinamizar el i
 Muchas gracias.
 
 
-## Atte., Equipo PROYECTO VECTOR
+## Atte., 
+# Equipo PROYECTO VECTOR
 
 
 ---
