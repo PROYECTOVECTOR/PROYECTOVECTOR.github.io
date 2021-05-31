@@ -13,11 +13,15 @@ layout: default
 Volumen 1
 
 Números:
-###### [![V1N11](assets/img/portadas/V1N1.png)](https://bit.ly/3mCT37n-ProyectoVectorN1V1)
-#### (Para leer y descargar tocá la portada o entrá por [acá](https://bit.ly/3mCT37n-ProyectoVectorN1V1).)
+
+###### [![V1N23](assets/img/portadas/V1N3.png)](http://bit.ly/3uwhgiE-PV_N3V1)
+#### (Para leer y descargar tocá la portada o entrá por [acá](http://bit.ly/3uwhgiE-PV_N3V1).)
 
 ###### [![V1N21](assets/img/portadas/V1N2.png)](https://drive.google.com/file/d/178XMdk2d7tHr6CqSkPTQG8mjRPsw1T8O/view?usp=sharing)
 #### (Para leer y descargar tocá la portada o entrá por [acá](https://drive.google.com/file/d/178XMdk2d7tHr6CqSkPTQG8mjRPsw1T8O/view?usp=sharing).)
+
+###### [![V1N11](assets/img/portadas/V1N1.png)](https://bit.ly/3mCT37n-ProyectoVectorN1V1)
+#### (Para leer y descargar tocá la portada o entrá por [acá](https://bit.ly/3mCT37n-ProyectoVectorN1V1).)
 
 ¡Al fin salió!
 
