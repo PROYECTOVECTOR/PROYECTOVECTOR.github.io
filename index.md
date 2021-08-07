@@ -29,6 +29,22 @@ Números:
 ##### Volver al inicio: [Contenidos](#contenidos)
 ---
 
+# EVENTO INFANCIAS
+
+## Lanzamos el "Experimentando Ando".
+
+###### [![V1N11](assets/img/portadas/V1N1.png)](https://bit.ly/3mCT37n-ProyectoVectorN1V1)
+#### (Para leer y descargar tocá la portada o entrá por [acá](https://bit.ly/3mCT37n-ProyectoVectorN1V1).)
+
+###### [![Experiencias](assets/img/portadas/Mi%C3%B1atura_ejemplos.png)](https://bit.ly/Experiencias_PV)
+### Compendio de experiencias didácticas.
+#### (Para leer y descargar tocá la portada o entrá por [acá](https://bit.ly/Experiencias_PV).)
+
+##### Volver al inicio: [Contenidos](#contenidos)
+---
+
+---
+
 # Podcasts
 
 ## Charlas, debates y entrevistas de ciencia y tecnología.
