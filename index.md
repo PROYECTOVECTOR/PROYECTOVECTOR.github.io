@@ -34,7 +34,7 @@ Números:
 ## Lanzamos el "Experimentando Ando".
 
 ### Enterate cómo participar:
-###### [![Experimentando_Ando](assets/img/portadas/Miniatura_Experimentando.png)](https://bit.ly/3mCT37n-ProyectoVectorN1V1)
+###### [![Experimentando_Ando](assets/img/portadas/Miniatura_Experimentando.png)](https://bit.ly/Experimentando_Ando_PV)
 #### (Para leer y descargar tocá la imagen o entrá por [acá](https://bit.ly/Experimentando_Ando_PV).)
 
 ### Compendio de experiencias didácticas:
