@@ -29,7 +29,7 @@ Números:
 ##### Volver al inicio: [Contenidos](#contenidos)
 ---
 
-# EVENTO INFANCIAS
+# EVENTO CIENCIA e INFANCIAS
 
 ## Lanzamos el "Experimentando Ando".
 
