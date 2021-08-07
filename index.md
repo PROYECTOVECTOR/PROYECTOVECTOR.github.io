@@ -35,11 +35,11 @@ Números:
 
 ### Enterate cómo participar:
 ###### [![Experimentando_Ando](assets/img/portadas/Miniatura_Experimentando.png)](https://bit.ly/3mCT37n-ProyectoVectorN1V1)
-#### (Para leer y descargar tocá la portada o entrá por [acá](https://bit.ly/Experimentando_Ando_PV).)
+#### (Para leer y descargar tocá la imagen o entrá por [acá](https://bit.ly/Experimentando_Ando_PV).)
 
 ### Compendio de experiencias didácticas:
 ###### [![Experiencias](assets/img/portadas/Mi%C3%B1atura_ejemplos.png)](https://bit.ly/Experiencias_PV)
-#### (Para leer y descargar tocá la portada o entrá por [acá](https://bit.ly/Experiencias_PV).)
+#### (Para leer y descargar tocá la imagen o entrá por [acá](https://bit.ly/Experiencias_PV).)
 
 ##### Volver al inicio: [Contenidos](#contenidos)
 ---
