@@ -31,6 +31,13 @@ Números:
 
 # EVENTO CIENCIA e INFANCIAS
 
+## Lanzamos el desafío "Una de ficción y dos de ciencia".
+
+### Enterate cómo participar:
+###### [![Una de ficción y dos de ciencia](assets/img/portadas/Miniatura_Ficcion.png)](https://bit.ly/una_ficción_dos_ciencia)
+#### (Para leer y descargar tocá la imagen o entrá por [acá](https://bit.ly/una_ficción_dos_ciencia).)
+
+
 ## Lanzamos el "Experimentando Ando".
 
 ### Enterate cómo participar:
