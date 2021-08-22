@@ -31,6 +31,16 @@ Números:
 
 # EVENTO CIENCIA e INFANCIAS
 
+## Lanzamos la SALA DE ESCAPE
+
+### Esta es una sala de escape colaborativa, que requiere que dos participantes jueguen en simultáneo en las dos salas: A y B. Para escapar de las salas pueden valerse de la información incluida en las revistas de Proyecto Vector, que pueden descargar desde esta misma página. 
+
+### [Sala de Escape A](https://bit.ly/Sala-A_PV)
+### [Sala de Escape B](https://bit.ly/Sala-B_PV)
+
+###### Capturas:
+<img src="assets/img/Capturas/Captura_1.png" height="100"> <img src="assets/img/Capturas/Captura_2.png" height="100"> <img src="assets/img/Capturas/Captura_3.png" height="100"> <img src="assets/img/Capturas/Captura_4.png" height="100">
+
 ## Lanzamos el desafío "Una de ficción y dos de ciencia".
 
 ### Enterate cómo participar:
