@@ -40,7 +40,8 @@ Números:
 ### Entrar a la [Sala de Escape A](https://bit.ly/Sala-A_PV)
 ### Entrar a la [Sala de Escape B](https://bit.ly/Sala-B_PV)
 
-#### ¡Divertite!
+#### No se olviden de "enviar" sus respuestas al final para recibir su certificado. 
+#### ¡Diviértanse!
 
 ###### Capturas:
 <img src="assets/img/Capturas/Captura_1.png" height="100"> <img src="assets/img/Capturas/Captura_3.png" height="100"> <img src="assets/img/Capturas/Captura_4.png" height="100">
