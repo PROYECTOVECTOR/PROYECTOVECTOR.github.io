@@ -37,8 +37,8 @@ Números:
 
 #### Para entrar a las salas tocá o hacé clic en los nombres:
 
-### [Sala de Escape A](https://bit.ly/Sala-A_PV)
-### [Sala de Escape B](https://bit.ly/Sala-B_PV)
+### Entrar a la [Sala de Escape A](https://bit.ly/Sala-A_PV)
+### Entrar a la [Sala de Escape B](https://bit.ly/Sala-B_PV)
 
 #### ¡Divertite!
 
