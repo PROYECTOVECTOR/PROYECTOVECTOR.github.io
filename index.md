@@ -39,7 +39,7 @@ Números:
 ### [Sala de Escape B](https://bit.ly/Sala-B_PV)
 
 ###### Capturas:
-<img src="assets/img/Capturas/Captura_1.png" height="100"> <img src="assets/img/Capturas/Captura_2.png" height="100"> <img src="assets/img/Capturas/Captura_3.png" height="100"> <img src="assets/img/Capturas/Captura_4.png" height="100">
+<img src="assets/img/Capturas/Captura_1.png" height="100"> <img src="assets/img/Capturas/Captura_3.png" height="100"> <img src="assets/img/Capturas/Captura_4.png" height="100">
 
 ## Lanzamos el desafío "Una de ficción y dos de ciencia".
 
