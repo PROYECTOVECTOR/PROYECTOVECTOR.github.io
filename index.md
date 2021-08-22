@@ -33,7 +33,7 @@ Números:
 
 ## Lanzamos la SALA DE ESCAPE
 
-### Esta es una sala de escape colaborativa, que requiere que dos participantes jueguen en simultáneo en las dos salas: A y B. Para escapar de las salas pueden valerse de la información incluida en las revistas de Proyecto Vector, que pueden descargar desde esta misma página. 
+#### Esta es una sala de escape colaborativa, que requiere que dos participantes jueguen en simultáneo en las dos salas: A y B. Para escapar de las salas pueden valerse de la información incluida en las revistas de Proyecto Vector, que pueden descargar desde esta misma página. 
 
 #### Para entrar a las salas tocá o hacé clic en los nombres:
 
