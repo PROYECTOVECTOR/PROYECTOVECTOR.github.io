@@ -2,7 +2,7 @@
 layout: default
 ---
 ### Contenidos
-[Revista Vector](#revista-vector)  ||  [Podcasts](#podcasts)  ||  [Nosotros](#nosotros)
+[Revista Vector](#revista-vector)  ||  [Podcasts](#podcasts)  ||  [Nosotros](#nosotros) ||  [Salas de Escape](#evento-ciencia-e-infancias) 
 
 ---
 
