@@ -31,6 +31,18 @@ Números:
 
 # EVENTO CIENCIA e INFANCIAS
 
+## ¡Lanzamos la Trivia Científica! (Del sábado 28/8 a las 19 hs hasta el domingo 29/8 a las 19 hs.)
+
+#### No te podés pordér esta trivia científica. Para ganar podés valerte de la información incluida en las revistas gratuitas de PV: ¡DESCARGALAS!.
+
+#### Entreate como participar y obtener tu certificado:
+
+###### [![Trivia Científica](assets/img/portadas/Miniatura-Trivia_Científica.png)](https://bit.ly/Trivia_PV)
+#### (Para leer y descargar tocá la imagen o entrá por [acá](https://bit.ly/Trivia_PV).)
+
+#### ¡Diviértanse!
+
+
 ## Lanzamos la SALA DE ESCAPE
 
 #### Esta es una sala de escape colaborativa, que requiere que dos participantes jueguen en simultáneo en las dos salas: A y B. Para escapar de las salas pueden valerse de la información incluida en las revistas de Proyecto Vector, que pueden descargar desde esta misma página. 
@@ -45,6 +57,7 @@ Números:
 
 ###### Capturas:
 <img src="assets/img/Capturas/Captura_1.png" height="100"> <img src="assets/img/Capturas/Captura_3.png" height="100"> <img src="assets/img/Capturas/Captura_4.png" height="100">
+
 
 ## Lanzamos el desafío "Una de ficción y dos de ciencia".
 
