@@ -35,7 +35,7 @@ Números:
 
 #### No te podés pordér esta trivia científica. Para ganar podés valerte de la información incluida en las revistas gratuitas de PV: ¡DESCARGALAS!.
 
-#### Entreate como participar y obtener tu certificado:
+### Entreate cómo participar y obtener tu certificado:
 
 ###### [![Trivia Científica](assets/img/portadas/Miniatura-Trivia_Científica.png)](https://bit.ly/Trivia_PV)
 #### (Para leer y descargar tocá la imagen o entrá por [acá](https://bit.ly/Trivia_PV).)
