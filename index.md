@@ -31,7 +31,9 @@ Números:
 
 # EVENTO CIENCIA e INFANCIAS
 
-## ¡Lanzamos la Trivia Científica! (Del sábado 28/8 a las 19 hs hasta el domingo 29/8 a las 19 hs.)
+## ¡Lanzamos la Trivia Científica!
+
+### Para comenzar la trivia hacé clic [¡acá!](https://bit.ly/TriviaCienificaPV)
 
 #### No te podés pordér esta trivia científica. Para ganar podés valerte de la información incluida en las revistas gratuitas de PV: ¡DESCARGALAS!.
 
