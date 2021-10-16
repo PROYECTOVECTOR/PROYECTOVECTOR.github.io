@@ -14,6 +14,10 @@ Volumen 1
 
 Números:
 
+###### [![V1N4]()](https://bit.ly/3papu14-RPV-N4V1)
+#### (Para leer y descargar tocá la portada o entrá por [acá](https://bit.ly/3papu14-RPV-N4V1).)
+
+
 ###### [![V1N23](assets/img/portadas/V1N3.png)](http://bit.ly/3uwhgiE-PV_N3V1)
 #### (Para leer y descargar tocá la portada o entrá por [acá](http://bit.ly/3uwhgiE-PV_N3V1).)
 
