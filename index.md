@@ -14,6 +14,7 @@ Volumen 1
 
 Números:
 
+No te pierdas el último número, recién salido:
 ###### [![V1N4](assets/img/portadas/V1N4.png)](https://bit.ly/3papu14-RPV-N4V1)
 #### (Para leer y descargar tocá la portada o entrá por [acá](https://bit.ly/3papu14-RPV-N4V1).)
 
